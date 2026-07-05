@@ -1,0 +1,12 @@
+Statistics File
+Score: 2
+I: 10
+J: 1
+L: 0
+O: 4
+S: 3
+T: 8
+Z: 1
+X: 0
++: 0
+/: 0
